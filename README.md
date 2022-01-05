@@ -1,4 +1,4 @@
-# analisis-de-encavi-2015-16-Muestreo-2
+# analisis de encavi (2015-16), Muestreo II
 Proyecto fue desarrollado con el programa R a traves del interfaz de jupyter notebook.
 
 El siguiente documento busca analizar ciertos indicadores de la encuesta Nacional de Calidad de Vida y Salud (ENCAVI 2015-16), asociados a variables socio demográficas como la edad, genero,sexo y pueblos originarios, también se analizaran las variables creadas que se obtuvieron en base a las respuesta de los encuestados, por ultimo se analizaran las variables asociadas al ingreso liquido que tienen las personas, tipo de previsión de salud y el consumo del tabaco, las variables antes mencionadas serán evaluadas según la macrozona, región, área (urbana o rural) y nivel educacional del encuestado, con esto buscamos ver la proporción de las distintas variables con el fin de ver el comportamiento de la población chilena.
